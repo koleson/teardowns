@@ -5,9 +5,11 @@
  - 80 Msps 12-bit ADC
  - A lot of peripherals!
  - $5.36 each in qty 10k as of September 2023
+
 **Connectivity:**  Laird Sterling SQG-EWB1 802.11b/g/n + Bluetooth + BLE module with integrated MCU
  - IPEX to PCB antenna
  - Alternate part listed on label:  Inventek FCC ID O7P-4343
+
 **Other ICs:**
  - [Texas Instruments SN74LVC126A Quadruple Bus Buffer Gate](https://www.ti.com/lit/ds/symlink/sn74lvc126a.pdf?ts=1693883286240)
  - [NXP PCT2075 digital temperature sensor and thermal watchdog, I2C](https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf)
