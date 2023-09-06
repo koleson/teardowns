@@ -25,3 +25,5 @@ I haven't proxied this device comprehensively yet, so it's not clear how much pr
 It seems likely that nearly all data is captured and processed locally, then nearly all of it is discarded, with only anomalous waveform captures being sent to the cloud.
 
 The live voltage meter updates about once per second, but that's probably sent as a snapshot rather than being derived from the waveform capture.
+
+Funny enough, the packaging lists [`whiskerlabs.com/patents`](https://whiskerlabs.com/patents) for patent information, but that page is 404 not found as of 2023-09-05.  The device label says `Designed by Whisker Labs in Maryland`; several of the [related patents](https://patents.justia.com/assignee/whisker-labs-inc) are assigned to University of Maryland and Ademco, the past name for Honeywell/Resideo's alarm systems division.
